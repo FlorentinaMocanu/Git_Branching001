@@ -7,4 +7,7 @@ public class TestCase001 {
     //second line
     //third line
     //fourth line
+    //create a new class
+    //checkout
+    //new line
 }
